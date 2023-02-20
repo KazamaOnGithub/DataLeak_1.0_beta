@@ -52,6 +52,8 @@ DataLeak is useful for skids, wanting to have a hacker kit one in Beta,
 
 <p align="center">If you want to know how to replace your db inside a ReadMe will be posted, or ping me on my <a href= "https://discord.gg/M382MpNAtm">discord serveur</a></p>
 
+<p align="center"> If you know how to edit yourself, then just do it on the function --> video_a_supp() </p>
+
 -----
 
 ### <p align="center">KazamaOnGithub</p>
